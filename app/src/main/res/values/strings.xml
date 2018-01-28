@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">praktikum3</string>
+    <string-array name="data_list">
+        <item>Isi 1</item>
+        <item>Isi 2</item>
+        <item>Isi 3</item>
+        <item>Isi 4</item>
+        <item>Isi 5</item>
+        <item>Isi 6</item>
+        <item>Isi 7</item>
+        <item>Isi 8</item>
+        <item>Isi 9</item>
+        <item>Isi 10</item>
+        <item>Isi 11</item>
+        <item>Isi 12</item>
+        <item>Isi 13</item>
+        <item>Isi 14</item>
+        <item>Isi 15</item>
+    </string-array>
+</resources>
